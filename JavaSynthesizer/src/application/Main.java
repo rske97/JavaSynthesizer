@@ -9,7 +9,7 @@ import javafx.scene.layout.BorderPane;
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
-		//pa;sjxpajsdpqjwdpjqpdjpqjpdqjpddqpwjd
+		//pa;
 	}
 	
 	public static void main(String[] args) {
